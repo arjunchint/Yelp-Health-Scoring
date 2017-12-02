@@ -1,5 +1,5 @@
 # Yelp-Health-Scoring
-**********  Download Yelp Dataset from https://www.yelp.com/dataset and place in dataset folder******
+**********  Download Yelp Dataset from https://www.yelp.com/dataset and place in dataset folder ******
 
 Then run following to output all files in "output" directory:
   sh runHealthSentiment.sh
